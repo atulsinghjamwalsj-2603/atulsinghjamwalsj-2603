@@ -1,8 +1,8 @@
 # Hi there 👋 I'm Atul Jamwal
 
-### Senior Backend Engineer | .NET | Azure | Distributed Systems
+### Tech Lead Backend Engineer | .NET | Azure | Distributed Systems
 
-Backend engineer with 8+ years of experience designing and building scalable, high-performance systems. I specialize in microservices architecture, event-driven systems, and cloud-native applications.
+Tech Lead Beackend engineer with 8+ years of experience designing and building scalable, high-performance systems. I specialize in microservices architecture, event-driven systems, and cloud-native applications.
 
 I enjoy solving complex backend challenges around scalability, reliability, and performance — especially in fintech and enterprise environments.
 
